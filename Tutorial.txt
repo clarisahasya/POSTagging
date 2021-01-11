@@ -1,0 +1,5 @@
+1. Pastikan folder dataset berisi file data train dan data test TSV, dan file .py sudah dalam satu folder
+
+2. Kemudian run file .py dengan terminal. " python tugas_pekan_5_nlp_baseline_postagger.py " " python tugas_pekan_5_nlp_classification_postagger.py "  " python tugas_pekan_5_nlp_hmm_postagger.py "
+
+3. Lalu akan ditampilkan hasil tagging dan akurasi setiap metode, matriks emission dan transition probability pada metode HMM-Viterbi, proses viterbi.
